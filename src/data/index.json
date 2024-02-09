@@ -1,0 +1,47 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./img/programming.png",
+            "title": "Programming Languages",
+            "description": "Java, C, C++, Python, Kotlin"
+        },
+        {
+            "id": "2",
+            "src": "./img/web.png",
+            "title": "Web Development",
+            "description": "HTML, CSS, React, JavaScript, TypeScript"
+        }, 
+        {
+            "id": "3",
+            "src": "./img/database.png",
+            "title": "Database and Version Control",
+            "description": "SQL, noSQL, Git"
+        }
+    ],
+    "portfolio": [
+        {
+            "id": "1",
+            "src": "./img/333gle.png",
+            "title": "333gle - Full-Stack SWE",
+            "description": "In the 333gle project, I developed a multithreaded web server with search engine capabilities, similar to Google's infrastructure. The server, managed by a central HttpServer, efficiently handles client connections using a dynamic ThreadPool. Leveraging the HttpServer_ThrFn() function, requests are parsed and routed dynamically, mirroring Google's query processing. Having integrated web server functionalities with search capabilities, this project showed me the fascinating resemblance to industry-leading search engines like Google.",
+            "link": "https://github.com/leonardo-ochoa/333gle"
+        },
+        {
+            "id": "2",
+            "src": "./img/gamesinone.png",
+            "title": "GamesInOne - Back-End SWE",
+            "description": "In GamesInOne, a Windows application, I orchestrated backend processes to seamlessly organize and launch all applications from a centralized platform. By implementing robust checks for file processes and optimizing backend logic, I ensured data integrity and efficient database interactions. Collaborating closely with cross-functional teams, I facilitated seamless integration and proactively resolved backend issues, contributing to the app's success. With features like user account integration, game organization, and bug reporting, GamesInOne enhances gaming management for users.",
+            "link": "https://github.com/leonardo-ochoa/GamesInOne"
+
+        }, 
+        {
+            "id": "3",
+            "src": "./img/pathfinder.png",
+            "title": "Pathfinder - Full-Stack SWE",
+            "description": "Pathfinder involves crafting a user-friendly GUI for a route finder tool, integrating React for frontend and Spark Framework for backend development. Utilizing MVC architecture and event-driven programming, users can input starting and ending locations to view routes on a UW campus map. Emphasizing simplicity and clarity, the GUI facilitates intuitive route requests and displays results effectively. Witnessing the project's resemblance to Google Maps was incredibly thrilling",
+            "link": "https://github.com/leonardo-ochoa/pathfinder"
+
+        }
+    ]
+}
