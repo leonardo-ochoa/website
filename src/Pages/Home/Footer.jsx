@@ -126,6 +126,11 @@ function Footer() {
                 (509) 289-8474
               </p>
             </li>
+            <li>
+              <a className="btn btn-download" href="leonardo_ochoa_resume_2024.pdf" download="leonardo_ochoa_resume_2024.pdf">
+                Download Resume
+              </a>
+            </li>
           </ul>
         </div>
       </div>
